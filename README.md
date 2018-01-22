@@ -6,3 +6,9 @@ Chapter 7 Projects:
   1.  Name: "Phone Number and Email Address Extractor"  
       File: pyperclip-regex.py  
       My Tweaks: adding an automatic web-scraping method, and encapsulating all of the functionality inside of a class. 
+
+Chapter 8 Projects:
+
+  1.  Name: "Generating Random Quiz Files"
+      File: quiz_gen.py
+      My Tweaks: checking for the maximum number of unique quizzes, ensuring the quizzes are actually random, and replacing the           string formatting %'s with .format().
