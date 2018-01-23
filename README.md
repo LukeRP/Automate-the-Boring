@@ -20,3 +20,8 @@ Chapter 8 Projects:
       File: "mcb.py"
       My Tweaks: added a "Delete" functionality which also checks if the key exists.
       
+Chapter 9 Projects:
+
+  1.  Name: "Zip-A-Folder"
+      File: "zipper.py"
+      
