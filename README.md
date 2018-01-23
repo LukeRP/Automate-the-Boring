@@ -22,6 +22,5 @@ Chapter 8 Projects:
       
 Chapter 9 Projects:
 
-  1.  Name: "Zip-A-Folder"
-      File: "zipper.py"
-      
+  1.  Name: "Zip-A-Folder"  
+      File: "zipper.py"  
