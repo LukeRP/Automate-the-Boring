@@ -11,4 +11,8 @@ Chapter 8 Projects:
   
   1.  Name: "Generating Random Quiz Files"  
       File: quiz_gen.py  
-      My Tweaks: checking for the maximum number of unique quizzes, ensuring the quizzes are actually random, and replacing the           string formatting %'s with .format().  
+      My Tweaks: checking for the maximum number of unique quizzes, ensuring the quizzes are actually random, and replacing the string formatting %'s with .format().  
+      
+  2.  Name: "Searching Directories by Regex"
+      File: regex_search.py
+      
