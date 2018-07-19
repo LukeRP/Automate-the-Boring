@@ -17,7 +17,7 @@ Chapter 8 Projects:
       File: regex_search.py  
       
   3.  Name: "Multiclipboard"
-      File: "mcb.py"
+      File: "mcb.py"  
       My Tweaks: added a "Delete" functionality which also checks if the key exists.
       
 Chapter 9 Projects:
