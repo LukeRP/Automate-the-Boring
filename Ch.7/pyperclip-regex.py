@@ -1,15 +1,16 @@
 #! /usr/bin/env python3
 '''
 Project from Ch. 7 of Automate the Boring Stuff with Python
-
+  
 pyperclip-regex.py - Finds phone numbers and email addresses on the clipboard.
-
-If the clipboard contains a web address, and only a web address, then it will
-instead scrape the site looking for either email addresses or phone numbers.
-
+  
+If the clipboard contains a web address, and only a web address, then instead of reading
+emails and phone numbers from the clipboard, it will instead scrape the webpage looking for 
+either email addresses or phone numbers.  
+  
 In order to make this run from the command line without too much hassle, this has
 been mostly automated. 
-
+  
 However, in the event that I wanted to port this functionality to another script,
 and moreover just to learn and keep things tidy, I've implemented it as a class.
 '''
