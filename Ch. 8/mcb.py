@@ -1,10 +1,10 @@
 #! /usr/bin/env python3
 '''
-mcb.py - Saves and loads pieces of text to the clipboard.
+mcb.py - Saves and loads pieces of text to the clipboard, tied to keywords for easy recall.
 
-E.g.:   ./mcb.py save <keyword>     - saves clipboard to keyword
+E.g.:   ./mcb.py save <keyword>     - saves clipboard contents to keyword
         ./mcb.py <keyword>          - loads associated keyword's contents to clipboard
-        ./mcb.py list               - lists all keywords
+        ./mcb.py list               - lists all currently saved keywords
         ./mcb.py delete <keyword>   - delete keyword from list
         ./mcb.py clear              - delete all keywords from shelf
 '''
