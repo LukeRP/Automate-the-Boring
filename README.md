@@ -12,7 +12,7 @@ Chapter 7 Projects:
       emails and phone numbers from the clipboard, it will instead scrape the webpage looking for 
       either email addresses or phone numbers.  
 
-      File: pyperclip-regex.py  
+      File: "pyperclip-regex.py"  
       
       My Tweaks: adding an automatic web-scraping method, and encapsulating all of the functionality inside of a class. 
       
@@ -26,7 +26,7 @@ Chapter 8 Projects:
 
       This program will take the number of students in a class (or the desired number of individual tests) and make a unique multiple-choice quiz for each. The current implementation is for testing state capitals, but can be generalized for any "zero sum" quiz, such as vocabulary for a unit or any other test where the answer choices besides the correct one for a given question don't matter (e.g. this would be a poor way to generate random math quizzes, unless one simply wanted to switch up the /order/ of questions and their answers and not randomize the selection of wrong answer choices as well.)
   
-      File: quiz_gen.py  
+      File: "quiz_gen.py"  
       
       My Tweaks: checking for the maximum number of unique quizzes, ensuring the quizzes are actually random, and replacing the string formatting %'s with .format().  
       
@@ -35,7 +35,7 @@ Chapter 8 Projects:
   
       This program will 1) take a string, 2) open every .txt file in a directory, 3) perform a regex search to find all (if any) instances of that string in the files, and 4) print matches to the screen (terminal).
   
-      File: regex_search.py  
+      File: "regex_search.py"  
       
       
   3.  Name: "Multiclipboard"
