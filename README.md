@@ -56,4 +56,7 @@ Chapter 8 Projects:
 Chapter 9 Projects:
 
   1.  Name: "Zip-A-Folder"  
+      
+      Copies an entire folder and its contents into a .zip file, the name of which increments with each backup, e.g. "zipped_1" > "zipped_2".
+  
       File: "zipper.py"  
