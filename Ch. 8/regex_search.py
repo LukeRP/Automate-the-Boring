@@ -2,8 +2,9 @@
 '''
 regex_search.py
 
-This program will open every .txt file in a directory and perform a regex search to find 
-all (if any) instances of that string in the files, printed to the screen (terminal).
+This program will 1) take a string, 2) open every .txt file in a directory, 
+3) perform a regex search to find all (if any) instances of that string 
+in the files, and 4) print matches to the screen (terminal).
 '''
 
 import os, sys
