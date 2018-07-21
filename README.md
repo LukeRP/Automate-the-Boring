@@ -4,7 +4,15 @@ My implementations of the chapter projects from Automate the Boring Stuff with P
 Chapter 7 Projects:
 
   1.  Name: "Phone Number and Email Address Extractor"  
+  
+      pyperclip-regex.py - Finds phone numbers and email addresses on the clipboard.  
+  
+      If the clipboard contains a web address, and only a web address, then instead of reading
+      emails and phone numbers from the clipboard, it will instead scrape the webpage looking for 
+      either email addresses or phone numbers.  
+
       File: pyperclip-regex.py  
+      
       My Tweaks: adding an automatic web-scraping method, and encapsulating all of the functionality inside of a class. 
   
 Chapter 8 Projects:  
