@@ -1,10 +1,10 @@
 # Automate-the-Boring
 My implementations of the chapter projects from Automate the Boring Stuff with Python.
 
-Chapter 7 Projects:
+## Chapter 7 Projects:
 
 
-  1.  Name: "Phone Number and Email Address Extractor"  
+  1.  Name: **"Phone Number and Email Address Extractor"**  
   
       * Finds phone numbers and email addresses on the clipboard.  
   
@@ -17,10 +17,10 @@ Chapter 7 Projects:
       * My Tweaks: adding an automatic web-scraping method, and encapsulating all of the functionality inside of a class. 
       
   
-Chapter 8 Projects:  
+## Chapter 8 Projects:  
 
   
-  1.  Name: "Generating Random Quiz Files"  
+  1.  Name: **"Generating Random Quiz Files"**  
   
       * Creates random quiz questions and their respective answer keys.
 
@@ -31,14 +31,14 @@ Chapter 8 Projects:
       * My Tweaks: checking for the maximum number of unique quizzes, ensuring the quizzes are actually random, and replacing the string formatting %'s with .format().  
       
       
-  2.  Name: "Searching Directories by Regex"  
+  2.  Name: **"Searching Directories using Regex"**  
   
       * This program will 1) take a string, 2) open every .txt file in a directory, 3) perform a regex search to find all (if any) instances of that string in the files, and 4) print matches to the screen (terminal).
   
       * File: ```"regex_search.py"```  
       
       
-  3.  Name: "Multiclipboard"
+  3.  Name: **"Multiclipboard"**
   
       * Saves and loads pieces of text to the clipboard, tied to keywords for easy recall.
 
@@ -54,9 +54,9 @@ Chapter 8 Projects:
       * My Tweaks: added a "Delete" functionality which also checks if the key exists.
       
       
-Chapter 9 Projects:
+## Chapter 9 Projects:
 
-  1.  Name: "Zip-A-Folder"  
+  1.  Name: **"Zip-A-Folder"**  
       
       * Copies an entire folder and its contents into a .zip file, the name of which increments with each backup, e.g. "zipped_1" > "zipped_2".
   
